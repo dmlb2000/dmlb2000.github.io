@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What makes me a unique person.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I struggle with this topic because I don't like talking about myself.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+There are two aspects to this topic. First, is the achievements and
+titles I've earned over the years. Second, is how I approach life and
+coding software. I'm going to write about these in reverse order
+since that's more interesting for reading.
 
-What else do you need?
+## Objective Truth in Software
 
-### my history
+Every piece of software is an expression of a thought. Like all
+thoughts some are right and lots are wrong. Only when we have others
+use and review our software do we begin to change a thought into an
+objective truth.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
