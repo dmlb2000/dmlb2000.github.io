@@ -13,14 +13,16 @@ trying to go more in depth into those...
  * How I approach life and coding software.
  * What I'm passionate about.
 
-# Achievements and Titles
+## Achievements and Titles
 
  * Bachelor of Science in Computer Science (2006) from Washington
    State University.
  * Masters of Computer Science (2012) from Washington State
    University.
+ * 10 years working for Pacific Northwest National Laboratory (great
+   place to work by the way)
 
-# Approach to Life and Coding
+## Approach to Life and Coding
 
 This topic encroaches on personal philosophy and religion. As this
 is a GitHub about me page I'll try and focus on software (as
@@ -34,3 +36,14 @@ attempt to write the conversion in [this post](/2020-01-24-philosophy)
 I always have a purpose in mind, I'm very driven by making a
 difference. I want the work I do to matter, not to make a million
 dollars but impact beyond just money.
+
+## What I'm Passionate About
+
+There's a couple of things I'm passionate about besides software.
+
+ * Gaming - This isn't a time waster, games present real challenges
+   to you as a person and your perspectives on what's valuable.
+ * Airplanes - Where humans pushed themselves beyond the limitations
+   of their biology.
+ * Food - I like making and eating food, especially in community with
+   others.

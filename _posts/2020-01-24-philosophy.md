@@ -12,7 +12,7 @@ Every piece of software is an expression of a thought. This is
 similar to a scientific hypothesis or a guess that needs to be
 tested. Some software is right and some are wrong. Only
 when we have others use and review our software do we begin to change
-our software into a well established mature applications (an
+our software into well established mature applications (an
 objective truth).
 
 Some objective truths in software are broadly applicable and are
