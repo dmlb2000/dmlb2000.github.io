@@ -1,3 +1,9 @@
+---
+layout: post
+title: Personal Philosophy on Software!
+image: 
+---
+
 # Philosophy and Truth in Software
 
 [Neil deGrasse Tyson](https://twitter.com/neiltyson) provides a
