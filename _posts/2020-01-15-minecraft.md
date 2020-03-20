@@ -11,8 +11,8 @@ Minecraft then you've been under a rock for a very long time. You
 should ask someone about it and get your head out of the sand.
 
 I have a computing family, my wife and I enjoy computing both
-personally and professionally. We've also tried to instil this love
-of computing in your two girls. At this point our entire family has
+personally and professionally. We've also tried to instill this love
+of computing in our two girls. At this point our entire family have
 their own computers and we play Minecraft with each other on a regular
 basis.
 
@@ -22,7 +22,7 @@ I run a [Fedora](https://getfedora.org) server with
 [Docker](https://www.docker.com) to manage the Minecraft servers. The
 storage I use for the servers is [ZFS](https://zfsonlinux.org). The
 combination of these three technologies support the services I use
-at home including Minecraft.
+at home, including Minecraft.
 
 The Minecraft server bundle I end up downloading through the
 [Twitch Client](https://www.twitch.tv) on Windows. They've been really
