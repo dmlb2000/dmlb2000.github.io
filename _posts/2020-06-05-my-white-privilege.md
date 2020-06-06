@@ -51,16 +51,16 @@ me to empathize with the oppression and systematic violence that is
 on display for the world to see right now. I can barely sympathize
 with the oppressed who are baring their feelings so publicly at this
 time. So all I can do is watch, try to get their point of view and
-above all listen.
+above all, listen.
 
-Not that I'm devoid of emotion. The strongest emotion I'm feeling is
-confusion and frustration. Confusion at the officers both committing
+Not that I'm devoid of emotion. The strongest emotions I'm feeling are
+confusion and frustration. Confusion at the officers both committing,
 and at the ones complicit in the acts of violence. Frustration that
 some police support each other above all else, including the citizens
 they are supposed to protect.
 
 Underneath all of the emotion is a deep well of disappointment in our
-country. That we didn't learn from the past and fix the problems.
+country. That we did not learn from the past and fix the problems.
 That the leader of this country has been devoid of action or words to
 comfort these people. That a large portion of this country chooses
 not to see the connection between the past and the events of this
@@ -75,12 +75,12 @@ differences in this problem between the states. We need
 accountability, justice and peaceful open dialog about these issues
 so everyone can get informed.
 
-Some police academies training is on the order of weeks to complete.
-The student is given a gun, a badge and thrown into some of the
+Some police academies' training is on the order of weeks to complete.
+The student is given a gun, a badge, and thrown into some of the
 hardest work our society has with little money often no appreciation.
 This seems to me like a recipe for the behavior we've been witness to
 recently. Training programs that emphasize physical combat techniques
-only serve to put officers on the offensive and they will choose to
+only serve to put officers on the offensive, and they will choose to
 use those techniques when unnecessary because it's easy. Training
 programs that emphasize de-escalation gives officers more tools to
 achieve the ends they desire without physical altercations.
@@ -94,8 +94,8 @@ should remain constant and be defined at the federal level. The
 states should be given a level of authority over one another, a peer
 pressure of sorts to keep progress moving. 
 
-To restore the trust, that society will give equal justice under the
-law to a minority race of citizens will take generations to heal. If
+To restore the trust of a minority race, that society will give equal
+justice under the law will take generations to heal. If
 the current justice system is to play a role, they need to get
 political and be faster at administering justice. Police need to be
 held accountable for their actions and inactions as the case maybe.
